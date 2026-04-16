@@ -1,4 +1,4 @@
-# Open-ai-whisper-speech-to-text-
+# -speech-to-text-
 import streamlit as st
 import openai
 import os
